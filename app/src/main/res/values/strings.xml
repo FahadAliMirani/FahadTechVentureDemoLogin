@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FahadTech Venture Demo Login</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="powered">Powered by FahadTech Venture © 2024</string>
+    <string name="username">Username</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="edit">Edit</string>
+    <string name="logout">Logout</string>
+</resources>
